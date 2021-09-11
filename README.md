@@ -2,7 +2,7 @@
 - 👀 I’m interested in the software development for corporate automation and data analysis
 - 🌱 I’m currently learning the use of different tools as well as different algorithms
 - 💞️ I’m looking to collaborate on different development project at corporate level
-- 📫 How to reach me ...
+- 📫 How to reach me. Just send an email
 
 <!---
 aminul91/aminul91 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
